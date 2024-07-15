@@ -1,4 +1,4 @@
-🍕 Pizza Sales Dashboard in Power BI 📊
+# 🍕 Pizza Sales Dashboard in Power BI 📊
 This repository contains a Power BI report/dashboard analyzing a comprehensive dataset of pizza sales. The report provides insights into various aspects of the sales data, including trends, top and bottom-performing pizzas, and key performance indicators (KPIs).
 
 📁 Dataset Overview
