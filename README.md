@@ -27,6 +27,7 @@ The dataset includes information on:
 🍕 Pizza Category
 
 🧀 Pizza Ingredients
+
 ## 🗂️ Report Structure
 
 The report is structured into two main pages, each designed to provide valuable insights and facilitate data-driven decision-making.
@@ -60,7 +61,8 @@ This page focuses on identifying the top and bottom-performing pizzas:
 -> 📊 Stacked Bar Chart: Bottom 5 pizzas by quantity.
 
 -> 📊 Stacked Bar Chart: Bottom 5 pizzas by total orders.
-# 🔄 Interactive Features
+
+## 🔄 Interactive Features
 
 To enhance the user experience and provide deeper insights, the report includes:
 
@@ -68,10 +70,10 @@ To enhance the user experience and provide deeper insights, the report includes:
 #### 🔘 Slicer: Select and filter data by pizza categories.
 #### 🔄 Navigator Buttons: Seamlessly navigate between the two report pages.
 
-# 🧹 Data Preparation
+## 🧹 Data Preparation
 
 The data was initially cleaned, and necessary calculations were performed using Power BI DAX and functions to ensure accurate and meaningful analysis.
 
-# 🔍 Conclusion
+## 🔍 Conclusion
 
 This Power BI dashboard provides a detailed analysis of pizza sales, helping to identify trends and top-performing pizzas, which can be invaluable for business decision-making. Feel free to explore and use this report to derive your own insights.
